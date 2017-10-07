@@ -22,11 +22,11 @@
 * @section DESCRIPTION
 *
 * <DESCRIPTION FOR THIS CODE>
-* Our code will take either a zip code input or barcode as the input. 
-* It is then able to convert either of the values to the other, and error check
-* them to make sure they meet the standards of certain value (barcodes need
-* to be 27 number in length starting and ending in 1's, and zipcodes need to be
-* integer inputs that are 5 numbers long)
+* In this code the class VectorDouble is used to shown to mimick the 'Vector'  
+* class in C++. The VectorDouble class is based on dynamically allocated arrays 
+* in order to provide the same functions as a vector. Constructor, destructors,
+* overloaded operators, and numerous member functions will make the use of this
+* class seamless and easy.
 */
 
 #include <iostream>
